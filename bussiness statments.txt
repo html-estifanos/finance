@@ -1,0 +1,10 @@
+gross profit = revenue - cost of goods sold
+operating income = gross profit - operating expense
+net income = operating income + non operating income
+gross profit margin = gross profit/sales *100
+operating profir margin = operating profit/sales*100
+net profit margin = net profit/sales*100
+--------------------balance sheet--------------------
+total shareholder equity = share capital + reserves and surples
+total liablity = trade payable + dividends payable + short term loans
+total asset = fixed asset + long term investment + cash&bank + debators

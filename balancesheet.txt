@@ -1,0 +1,68 @@
+--------------balance sheet---------------------
+three main things
+->assets
+->liabilities
+->shareholders equity
+=>assets = liablities + shareholders equity
+--------------------------------------------
+
+--------------assets-----------------
+#Current Assets:
+Cash and cash equivalents
+Short-term marketable securities
+Accounts receivable
+Inventory
+Other current assets
+=>total current asset = cash + short term +account receivable + inventory + other current assets
+#Non-current Assets:
+Long-term marketable securities
+Property
+Goodwill
+Intangible assets
+Other non-current assets
+=>total nin current assets = long-term + property +Goodwill +intangible assets +other
+=====>>total asset = total current asset + total non-current assets<<<<<<==============
+----------------------------------------
+
+----------liablities------------
+#Current Liabilities:
+Accounts payable
+Accrued expenses
+Deferred revenue
+Current portion of long-term debt
+Other current liabilities
+#Non-Current Liabilities:
+Deferred revenue (non-current)
+Long-term lease obligations
+Long-term debt
+Other non-current liabilities
+----------------------------------------------
+ 
+ -------------shareholders---------------
+ Common stock
+Preferred stock
+Treasury stock
+Retained earnings
+------------------------------------------
+
+
+#The balance sheet provides an overview of a company's assets, liabilities, and shareholders' equity
+ as a snapshot in time. The date at the top of the balance sheet tells you when the snapshot was taken, which is generally the end of the reporting period. Below is a breakdown of the items in a balance sheet
+# Assets
+Cash and cash equivalents:=> are liquid assets, which may include Treasury bills and certificates of deposit.
+Accounts receivables:=> are the amount of money owed to the company by its customers for the sale of its product and service.
+Inventory:=> is the goods a company on hand it intends to sell as a course of business. Inventory may include finished goods, work in progress that are not yet finished, or raw materials on hand that have yet to be worked.
+Prepaid expenses:=> are costs that have been paid in advance of when they are due. These expenses are recorded as an asset because the value of them has not yet been recognized; should the benefit not be recognized, the company would theoretically be due a refund.
+Property, plant, and equipment:=> are capital assets owned by a company for its long-term benefit. This includes buildings used for manufacturing for heavy machinery used for processing raw materials.
+Investments:=> are assets held for speculative future growth. These aren't used in operations; they are simply held for capital appreciation.
+Trademarks, patents, goodwill, and other intangible assets :=>
+can't be physically be touched but have future economic (and often long-term benefits) for the company.
+#Liabilities
+Accounts payable are the bills due as part of the normal course of operations of a business. This includes the utility bills, rent invoices, and obligations to buy raw materials.
+Wages payable are payments due to staff for time worked.
+Notes payable are recorded debt instruments that record official debt agreements including the payment schedule and amount.
+Dividends payable are dividends that have been declared to be awarded to shareholders but have not yet been paid.
+Long-term debt can include a variety of obligations including sinking bond funds, mortgages, or other loans that are due in their entirety in longer than one year. Note that the short-term portion of this debt is recorded as a current liability.
+#Shareholders' Equity
+Shareholders' equity is a company's total assets minus its total liabilities. Shareholders' equity (also known as stockholders' equity) represents the amount of money that would be returned to shareholders if all of the assets were liquidated and all of the company's debt was paid off.
+Retained earnings are part of shareholders' equity and are the amount of net earnings that were not paid to shareholders as dividends.
