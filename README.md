@@ -2,10 +2,12 @@
 this project tries to do financial statments
 which includes
 <ol>
-  <li>
-blance sheet</;i><li>
-income statment</li><li>
-cash flow and others </li>
+<li> a simple input form for registering transaction</li>
+<li> general ledger</li>
+<li>trial balance</li>
+<li>blance sheet</;i>
+<li>income statment</li>
+<li>owners equity </li>
 </ol>
 <h1> how to install</h1>
 <h3>pre request</h3>
