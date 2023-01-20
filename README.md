@@ -8,8 +8,9 @@ income statment</li><li>
 cash flow and others </li>
 </ol>
 <h1> how to install</h1>
-you need a web server i used apache web server and the php version should be > 7,
-then you need a database server i used mysql server which comes together with webserver, 
+<h3>pre request</h3>
+<ol><li>you need a web server i used apache web server and the php version should be > 7</li>
+  <li>then you need a database server i used mysql server which comes together with webserver, </li></ol>
 <b>steps</b>
 <ul>
   <li> clone the file to your webserver's main directory ( i use xampp so it is in C:\xampp\htdocs )  </li>
