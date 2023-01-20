@@ -7,7 +7,7 @@ blance sheet</;i><li>
 income statment</li><li>
 cash flow and others </li>
 </ol>
-# how to install
+<h1> how to install</h1>
 you need a web server i used apache web server and the php version should be > 7,
 then you need a database server i used mysql server which comes together with webserver, 
 <b>steps</b>
